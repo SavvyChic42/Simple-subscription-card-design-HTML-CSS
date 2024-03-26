@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.subscription-card{
+    width: 400px;
+    background-color:#7D0552;
+    border-radius: 10px;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+}
+.github-logo{
+    width: 250px; /* Set the width of the YouTube logo as per your requirement */
+    margin-bottom: 20px;
+}
+
+.subscription-details {
+    margin-bottom: 40px;
+    color: white;
+}
+.subscribe-button {
+    background-color: #131212; /* Use YouTube's red color for the button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.subscribe-button:hover {
+    background-color: #0f0f0f; /* Darker red color on hover */
+}
+
