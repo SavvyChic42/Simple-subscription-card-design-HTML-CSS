@@ -1,7 +1,7 @@
-Creating a product card for an e-commerce website or an online store.
-This product card typically displays the product’s image, title, and price, and two buttons Add to Cart and View. The Add to Cart the button allows users to add the product to their cart, while the Viewbutton usually takes them to a separate page that provides more information about the product, such as its features, specifications, and reviews.
+Creating a subscription card for an e-commerce website or an online store.
+This subscription card typically displays the product’s image, title, and price, and two buttons Add to Cart and View. The Add to Cart the button allows users to add the product to their cart, while the Viewbutton usually takes them to a separate page that provides more information about the product, such as its features, specifications, and reviews.
 
-The HTML code for a product card typically includes a container element that wraps around the product’s image and details. The image is usually contained within an img tag, while the product title and buttons are typically placed inside a div or other container element.<br>
+The HTML code for a subscription card typically includes a container element that wraps around the subscription’s image and details. The image is usually contained within an img tag, while the subscription title and buttons are typically placed inside a div or other container element.<br>
 Here is the code of the HTML elements:<br>
 ![image](https://github.com/SavvyChic42/Simple-subscription-card-design-HTML-CSS/assets/151141927/212c593e-5bd2-4ac0-8b60-17f932d8208e)<br>
 
